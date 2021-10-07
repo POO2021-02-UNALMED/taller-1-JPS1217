@@ -1,3 +1,8 @@
 Juan Sebastian Patiño Alvarez
 Edad: 29
 Quiero aprender mucho por que de todas las materias que he visto creo que esta sera la que mas me sirva ya que quiero desarrallor y mejorar mis habilidades como desarrollador.
+
+En el punto anterior la carpeta no tenia ningun archivo, y el monitor nos dijo que una carpeta vacia no la reconocia. Al tener el archivo ya si se puede hacer commit.
+
+Por que se pueden presentar situaciones de este estilo y tal vez la persona haciendo el merge descarte los cambios realizados por la otra persona.
+
