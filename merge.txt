@@ -1,0 +1,1 @@
+En el punto anterior la carpeta no tenia ningun archivo, y el monitor nos dijo que una carpeta vacia no la reconocia. Al tener el archivo ya si se puede hacer commit.
